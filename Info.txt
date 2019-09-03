@@ -1,0 +1,9 @@
+Account Email: nick@paisleydevelopment.com
+Account ID: 71f5bcd1-8ef8-4b1c-ae83-423857e077ef
+
+API Key for nick@paisleydevelopment.com
+Fwh7Etm7HXFczX2kUYbl3AwQzirxygOrA2HZWgma
+
+You can start using this key to make web service requests. 
+Simply pass your key in the URL when making a web request. Here's an example:
+https://api.nasa.gov/planetary/apod?api_key=Fwh7Etm7HXFczX2kUYbl3AwQzirxygOrA2HZWgma
